@@ -13,3 +13,5 @@ Advantages :
 Avantaje :
   - Aceste snippeturi de cod pot fi schimbate cu usurinta si implementate in orice principiu OOP
   - Simple si re-utilizabile
+
+*IN WORK*
