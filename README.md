@@ -1,6 +1,6 @@
 # Code_Examples
 
-[EN] ![#ff0000] This repository has the puorpose to show people examples of different concepts of C#, in the future i will build a 'course' of C#, and those examples will be there
+[EN] This repository has the puorpose to show people examples of different concepts of C#, in the future i will build a 'course' of C#, and those examples will be there
 
 Advantages : 
   - This pieces of code can be changed easily and be implemented in OOP principles
