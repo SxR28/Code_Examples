@@ -6,6 +6,8 @@ Advantages :
   - This pieces of code can be changed easily and be implemented in OOP principles
   - Simple and reusable
 
+#
+
 [RO] Acest repository are ca scop sa arate oamenilor exemple de diferite concepte din C#, in viitor, voi 'construi un' curs de C#, aceste exemple fiind folosite
 
 Avantaje :
