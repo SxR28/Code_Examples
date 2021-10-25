@@ -1,4 +1,4 @@
-# Code_Examples
+# Code_Examples (IN WORK)
 
 [EN] This repository has the puorpose to show people examples of different concepts of C#, in the future i will build a 'course' of C#, and those examples will be there
 
@@ -14,4 +14,4 @@ Avantaje :
   - Aceste snippeturi de cod pot fi schimbate cu usurinta si implementate in orice principiu OOP
   - Simple si re-utilizabile
 
-*IN WORK*
+
