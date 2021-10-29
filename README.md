@@ -15,3 +15,9 @@ Avantaje :
   - Simple si re-utilizabile
 
 
+#
+
+<b> Inheritence : </b>
+<ul>
+  <li> Library App </li>
+<ul>
