@@ -16,12 +16,12 @@ Avantaje :
 
 
 #
-
+<ul>
 <b> Inheritence : </b>
 <ul>
   <li> Library App </li>
-<ul>
+</ul>
 
 # 
   
-  I still have to do some writings to each folders <b> [🛑SOON🛑] </b>
+I still have to do some writings to each folders <b> [🛑SOON🛑] </b>
